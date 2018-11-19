@@ -1,0 +1,26 @@
+{
+  "name": "teamexercise",
+  "version": "0.0.0",
+  "description": "a simple bingo extract",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "peppemarchese97@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VforVengeance/bingoProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VforVengeance/bingoProject/issues"
+  },
+  "homepage": "https://github.com/VforVengeance/bingoProject#readme"
+}
